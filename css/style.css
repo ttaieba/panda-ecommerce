@@ -1,0 +1,22 @@
+.panda-bg{
+    background:#fceae8;
+}
+
+.panda-catagory-one{
+    background: rgb(231, 154, 229);
+}
+.panda-catagory-two{
+    background: blue;
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+}
+
+.dolors{
+    color: #FF136F;
+
+}
+
+
